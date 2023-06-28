@@ -15,3 +15,4 @@ and others...
 - Murka124 (Construct 2/3 dev, Node.JS dev, Rust dev, Redstone)
 - Ligor4ik (Tester, ideological inspirer and fumbles for Python)
 - TikenShot (JS dev, Java dev, Redstone)
+- Goose (Designer, Tester)
